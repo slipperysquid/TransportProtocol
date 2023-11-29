@@ -2,9 +2,10 @@ import array
 import hashlib
 import struct
 import socket
+
 class Packet():
     
-    def __init__(self,sender_IP,sender_port, dest_IP,dest_port ,sequence, data:bytes,ack, recvw = 8192,syn = False,fin=False): #all inputs are strings
+    def __init__(self,sender_IP,sender_port, dest_IP,dest_port ,sequence, data:bytes,ack, recvw = 8192,syn = False,fin=False,is_ack=False): #all inputs are strings
         self.sender_IP = sender_IP
         self.sender_port = sender_port
         self.dest_IP =dest_IP
@@ -15,10 +16,11 @@ class Packet():
         self.recvw = 8192
         self.syn = syn
         self.fin = fin
+        self.is_ack = is_ack
         
     def build(self):
         flags = 0
-        if self.ack:
+        if self.is_ack:
             flags |= (1 << 7)
         if self.syn:
             flags |= (1 << 6)
@@ -26,7 +28,7 @@ class Packet():
             flags |= (1 << 5)
 
         
-        
+        #H=unsigned 2 byte int , I = unsigned 4 byte int, x = padding byte
         packet = struct.pack(
             '!HHIIHHHxx',
             self.sender_port, #source port
@@ -37,31 +39,43 @@ class Packet():
             self.recvw, #receive window
             0, #initial checksum is 0
         )
-        
+        if self.data:
+            length = len(packet) + len(self.data)
+        else:
+            length = len(packet)
+
         header = struct.pack(
-            '!III',
+            '!4s4sI',
             socket.inet_aton(self.sender_IP),#sender ip
             socket.inet_aton(self.dest_IP),#dest IP
-            socket(len(packet) + len(self.data))#length of protocol segment
+            length#length of protocol segment
+            
         )
-        
-        checksum = self.checksum(header+packet+self.data)
+
+        #calc checksum
+        if self.data:
+            checksum = self.checksum((header+packet+self.data))
+            packet = header + packet[:16] + checksum.to_bytes(2,byteorder='big') + packet[18:] + self.data
+        else:
+            checksum = self.checksum((header+packet))
+            packet = header + packet[:16] + checksum.to_bytes(2,byteorder='big') + packet[18:] 
         #putting whole packet together
-        packet = header + packet[:16] + struct.pack('H',checksum) + packet[18:]
+        
 
         return packet
-
         
-    def checksum(packet):
+    def checksum(self,packet):
         #padding the packet
         if len(packet) % 2 != 0:
             packet += b'\0'
 
         #getting the 16 bit ones compliment of a packet
-        ones = sum(array.array("H", packet))
+        ones = array.array("H", packet)
+        ones = sum(ones)
         ones = (ones >> 16) + (ones & 0xffff)
         ones += ones >> 16
-
-        return (~ones) & 0xffff
+        compliment = (~ones) & 0xffff
+       
+        return compliment
 
     

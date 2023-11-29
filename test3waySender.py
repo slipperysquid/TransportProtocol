@@ -1,0 +1,12 @@
+import Sender
+import time
+send = Sender.Sender('127.0.0.1',5001)
+
+send.get_connection('127.0.0.1', 5000)
+data = """ """
+with open("stuff.txt") as f:
+    start = time.time()
+    send.send_data(f.read().encode())
+    end = time.time()
+
+print(end - start)
