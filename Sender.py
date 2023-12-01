@@ -14,11 +14,10 @@ class Sender():
         self.sender_IP = sender_IP
         self.sender_port = sender_port
         self.send_socket = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
-        self.recv_socket = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
         self.dest_IP = None
         self.dest_port = None
         self.windowsize = 1
-        self.recv_socket.bind((self.sender_IP,self.sender_port))
+        self.send_socket.bind((self.sender_IP,self.sender_port))
     
     #do a 3 way handshake
     def get_connection(self, dest_IP, dest_port):
@@ -33,8 +32,8 @@ class Sender():
             self.send_socket.sendto(initial_packet,(self.dest_IP,self.dest_port))
             #wait for an ack
             try:
-                self.recv_socket.settimeout(0.3)
-                data, addr = self.recv_socket.recvfrom(32)
+                self.send_socket.settimeout(0.3)
+                data, addr = self.send_socket.recvfrom(32)
                 ack_data = struct.unpack('!4s4sIHHIIHHHxx',data)
                 flags = ack_data[7]
                 ack_num = ack_data[6]
@@ -76,7 +75,7 @@ class Sender():
             chunks.append(data)
         #begin GBN
         window_base = 0
-        N = 54
+        N = 5
         next_seq_num = 0
         timer_started = False
         while True:
@@ -97,8 +96,8 @@ class Sender():
                     timer_started = True
                 next_seq_num += 1
             try:
-                self.recv_socket.settimeout(0.3)
-                ack_data,addr = self.recv_socket.recvfrom(32)
+                self.send_socket.settimeout(0.3)
+                ack_data,addr = self.send_socket.recvfrom(32)
                 print("ack received")
                 ack = struct.unpack('!4s4sIHHIIHHHxx',ack_data)
                 flags = ack[7]
@@ -132,8 +131,8 @@ class Sender():
         print("Done sending, closing connection")
         close_pack = Packet.Packet(self.sender_IP,self.sender_port, self.dest_IP,self.dest_port ,sequence=0, data=None,ack=0,fin=True).build()
         self.send_socket.sendto(close_pack,(self.dest_IP,self.dest_port))
-        self.recv_socket.settimeout(0.3)
-        data, addr = self.recv_socket.recvfrom(32)
+        self.send_socket.settimeout(0.3)
+        data, addr = self.send_socket.recvfrom(32)
         if (self.validate_packet(data,checksum) == False):#check valid
             print("closure failed: bad checksum! ")
         elif (not(flags & (1 << 7))):#check ack
@@ -152,9 +151,9 @@ class Sender():
     def listen_for_ack(self):
         #wait for an ack
         while not(globals()['close_ack_thread']):
-            self.recv_socket.settimeout(0.2)
+            self.sender_port.settimeout(0.2)
             try:
-                data, addr = self.recv_socket.recv(32)
+                data, addr = self.sender_port.recv(32)
                 print("Thread received packet")
                 globals()['ack_received'] = True
                 return data
