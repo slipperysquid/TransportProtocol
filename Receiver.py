@@ -8,7 +8,6 @@ class Receiver():
     def __init__(self,recv_IP,recv_port):
         self.sender_IP = None
         self.sender_port = None
-        self.send_socket = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
         self.recv_socket = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
         self.recv_IP = recv_IP
         self.recv_port = recv_port
@@ -32,7 +31,7 @@ class Receiver():
                 #create synack
                 synack=Packet.Packet(sender_IP=self.recv_IP,sender_port=self.recv_port, dest_IP=socket.inet_ntoa(sender),dest_port=sender_port ,sequence=0, data=None,ack=1,syn=True,is_ack=True).build()
                 #send synack
-                self.send_socket.sendto(synack,(socket.inet_ntoa(sender),sender_port))
+                self.recv_socket.sendto(synack,(socket.inet_ntoa(sender),sender_port))
 
                 #receive last ack of the three way handshake
                 data,addr = self.recv_socket.recvfrom(32)
@@ -84,7 +83,7 @@ class Receiver():
                                         data=None, 
                                         ack=sequence+1,
                                         fin=True, is_ack=True).build()
-                self.send_socket.sendto(ack, (socket.inet_ntoa(sender),sender_port))
+                self.recv_socket.sendto(ack, (socket.inet_ntoa(sender),sender_port))
                 recieve = False
                 
 
@@ -100,7 +99,7 @@ class Receiver():
                                     syn=False,is_ack=True).build()
                 prev_seq += 1
                 print(struct.unpack("!4s4sIHHIIHHHxx",ack))
-                self.send_socket.sendto(ack, (socket.inet_ntoa(sender),sender_port))
+                self.recv_socket.sendto(ack, (socket.inet_ntoa(sender),sender_port))
                 #read the data from the buffer
                 data_chunk = header[32:]
                 print("received data: {}".format(data_chunk))
@@ -117,7 +116,7 @@ class Receiver():
                                     ack=prev_seq,
                                     syn=False,is_ack=True).build()
                 
-                self.send_socket.sendto(ack, (socket.inet_ntoa(sender),sender_port))
+                self.recv_socket.sendto(ack, (socket.inet_ntoa(sender),sender_port))
 
         print("we received this: {}".format(output))
         return b''.join(output)

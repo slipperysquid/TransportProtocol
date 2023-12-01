@@ -78,4 +78,18 @@ class Packet():
        
         return compliment
 
-    
+    def validate_packet(packet,checksum):
+        zero = 0
+        packet = packet[:28] + zero.to_bytes(2,byteorder='big') + packet[30:]
+        #padding the packet
+        if len(packet) % 2 != 0:
+            packet += b'\0'
+
+        #getting the 16 bit ones compliment of a packet
+        ones = array.array("H", packet)
+        ones = sum(ones)
+        ones = (ones >> 16) + (ones & 0xffff)
+        ones += ones >> 16
+        compliment = (~ones) & 0xffff
+        return checksum == compliment
+
