@@ -142,22 +142,33 @@ class Connection():
                 #check corruption
                 elif Packet.validate_packet(packet=header, checksum=checksum):
                     print("validated packet with sequence number ", sequence)
-                    ack = Packet(sender_IP=self.sender_IP, 
+                    
+                    
+                    
+                    #if not duplicate packet get the data
+                    if sequence == expected_seq:
+                        ack = Packet(sender_IP=self.sender_IP, 
                                         sender_port=self.sender_port, 
                                         dest_IP=socket.inet_ntoa(sender), 
                                         dest_port=sender_port ,sequence=expected_seq, 
                                         data=None, 
                                         ack=expected_seq,
                                         syn=False,is_ack=True).build()
-                    
-                    expected_seq += 1
-                    self.socket.sendto(ack, (self.dest_IP,self.dest_port))
-                    #if not duplicate packet get the data
-                    if sequence == expected_seq:
+                        self.socket.sendto(ack, (self.dest_IP,self.dest_port))
                         expected_seq += 1
                         #read the data from the buffer
                         data_chunk = header[32:]
                         output.append(data_chunk)
+                    elif sequence > expected_seq:#duplicate packet received then send duplicate ack
+                        ack = Packet(sender_IP=self.sender_IP, 
+                                        sender_port=self.sender_port, 
+                                        dest_IP=socket.inet_ntoa(sender), 
+                                        dest_port=sender_port ,sequence=expected_seq-1, 
+                                        data=None, 
+                                        ack=expected_seq - 1,
+                                        syn=False,is_ack=True).build()
+                        self.socket.sendto(ack, (self.dest_IP,self.dest_port))
+                    
             except Exception as e:
                 print(e)
                 '''
