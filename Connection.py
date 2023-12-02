@@ -1,13 +1,12 @@
 import socket
 from Packet import Packet
 import struct
+import threading
 import time
-
-
-
+from GBN_send import sender
+import random
 class Connection():
-
-
+    
     def __init__(self,sender_IP,sender_port,dest_IP,dest_port,socket):
         self.sender_IP = sender_IP
         self.sender_port = sender_port
@@ -15,9 +14,13 @@ class Connection():
         self.dest_IP = dest_IP
         self.dest_port = dest_port
         self.windowsize = 1
+        self.GBN_sender = sender(self.socket, self.sender_IP,self.sender_port,self.dest_IP,self.dest_port)
     
 
     def send_data(self,data):
+        self.GBN_sender.send_data(data)
+
+        '''
         #split data into chunks
         chunks = []
         while len(data) >= 1024:
@@ -26,10 +29,14 @@ class Connection():
         if len(data) > 0:
             chunks.append(data)
         #begin GBN
+        #shared variables between data sender and ack receiver thread
+        lock = threading.Lock()
+        timer = Timer()
         window_base = 0
+        #end of shared variables
         N = 5
         next_seq_num = 0
-        timer_started = False
+        #starting ack receiver thread
         while True:
             #start the ack listening thread
             globals()['close_ack_thread'] = False
@@ -47,6 +54,7 @@ class Connection():
                     start_time = time.time()
                     timer_started = True
                 next_seq_num += 1
+            #received ack with a timeout incase of loss
             try:
                 self.socket.settimeout(0.3)
                 ack_data,addr = self.socket.recvfrom(32)
@@ -60,19 +68,26 @@ class Connection():
                     print("Ack received is not valid")
                 elif (not(flags & (1 << 7))):#check ack
                     print("Packet received is not an ack")
+                elif (ack_num < window_base):
+                    print("\t LOSS DETECTED: duplicate ack received, resetting window size to 1")
+                    N = 1
                 elif (ack_num == window_base):
                     window_base += 1
-                    print("inscreased window base to {}".format(window_base))
+                    N += 1
+                    print("\tGood ack")
+                    print("\tinscreased window base to {}".format(window_base))
+                    print("\tCongestion Control: increased window size by one. Curr window size: {}".format(N))
+            #handle timeout loss
             except socket.timeout:
-                print("packet time out")
-                start_time = time.time()
-                timer_started = True
-                print(window_base)
-                print(ack_num)
-                for i in range(window_base,next_seq_num - 1):
+                print("LOSS DETECTED: ack time out, resetting window size to 1 ")
+                
+                ''''''for i in range(window_base,next_seq_num - 1):
                     packet = Packet(self.sender_IP, self.sender_port, self.dest_IP,  self.dest_port, sequence=next_seq_num, data = chunks[next_seq_num],ack=0 ).build()
                     self.socket.sendto(packet,(self.dest_IP,self.dest_port))
                     print("sending packet with sequence number {}".format(i))
+                ''''''
+                N = 1
+                next_seq_num = window_base
             
             globals()['close_ack_thread'] = True
             
@@ -98,59 +113,67 @@ class Connection():
         
 
         print("done sending confirmed")
+        '''
 
 
     def receive_data(self):
 
-        prev_seq = 0
+        expected_seq = 0
         recieve = True
         output = []
         while recieve:
-            header,addr = self.socket.recvfrom(1056)
-            sender,dest,length,sender_port,dest_port,sequence,ack,flags,recw,checksum = struct.unpack("!4s4sIHHIIHHHxx", header[:32])
-            print("received sequence number = ", sequence)
-            print("received ack number = ",ack)
-            if (flags & (1 << 5)):
-                print('fin received')
-                ack = Packet(sender_IP=self.sender_IP, 
+            try:
+                header,addr = self.socket.recvfrom(1056)
+                sender,dest,length,sender_port,dest_port,sequence,ack,flags,recw,checksum = struct.unpack("!4s4sIHHIIHHHxx", header[:32])
+                #simulate rtt
+                time.sleep(0.15)
+                if (flags & (1 << 5)):
+                    print('fin received')
+                    ack = Packet(sender_IP=self.sender_IP, 
+                                            sender_port=self.sender_port, 
+                                            dest_IP=socket.inet_ntoa(sender), 
+                                            dest_port=sender_port ,sequence=1, 
+                                            data=None, 
+                                            ack=sequence+1,
+                                            fin=True, is_ack=True).build()
+                    self.socket.sendto(ack, (self.dest_IP,self.dest_port))
+                    recieve = False
+                    
+
+                #check corruption
+                elif Packet.validate_packet(packet=header, checksum=checksum):
+                    print("validated packet with sequence number ", sequence)
+                    ack = Packet(sender_IP=self.sender_IP, 
                                         sender_port=self.sender_port, 
                                         dest_IP=socket.inet_ntoa(sender), 
-                                        dest_port=sender_port ,sequence=1, 
+                                        dest_port=sender_port ,sequence=expected_seq, 
                                         data=None, 
-                                        ack=sequence+1,
-                                        fin=True, is_ack=True).build()
-                self.socket.sendto(ack, (self.dest_IP,self.dest_port))
-                recieve = False
-                
-
-            #check corruption
-            elif Packet.validate_packet(packet=header, checksum=checksum) and sequence == prev_seq:
-                print("validated packet we seq ", sequence)
-                ack = Packet(sender_IP=self.sender_IP, 
-                                    sender_port=self.sender_port, 
-                                    dest_IP=socket.inet_ntoa(sender), 
-                                    dest_port=sender_port ,sequence=prev_seq, 
-                                    data=None, 
-                                    ack=prev_seq,
-                                    syn=False,is_ack=True).build()
-                prev_seq += 1
-                self.socket.sendto(ack, (self.dest_IP,self.dest_port))
-                #read the data from the buffer
-                data_chunk = header[32:]
-                output.append(data_chunk)
-                
+                                        ack=expected_seq,
+                                        syn=False,is_ack=True).build()
+                    
+                    expected_seq += 1
+                    self.socket.sendto(ack, (self.dest_IP,self.dest_port))
+                    #if not duplicate packet get the data
+                    if sequence == expected_seq:
+                        expected_seq += 1
+                        #read the data from the buffer
+                        data_chunk = header[32:]
+                        output.append(data_chunk)
+            except Exception as e:
+                print(e)
+                '''
             else:
                 #send previous ack
                 ack = Packet(sender_IP=self.sender_IP, 
                                     sender_port=self.sender_port, 
                                     dest_IP=socket.inet_ntoa(sender), 
-                                    dest_port=sender_port ,sequence=prev_seq-1, 
+                                    dest_port=sender_port ,sequence=expected_seq-1, 
                                     data=None, 
-                                    ack=prev_seq,
+                                    ack=expected_seq - 1,
                                     syn=False,is_ack=True).build()
                 
                 self.socket.sendto(ack, (self.dest_IP,self.dest_port))
-
+'''
         #print("we received this: {}".format(output))
         return b''.join(output)
 
