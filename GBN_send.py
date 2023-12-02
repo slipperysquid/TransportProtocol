@@ -46,6 +46,8 @@ class sender():
         while not(self.done):
     
             self.lock.acquire()
+            if ( self.window_base + self.N >= len(chunks)):
+                self.N = len(chunks)-1
             if(self.window_base > len(chunks) - 1):
                     print("breaking")
                     self.done = True

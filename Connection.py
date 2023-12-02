@@ -125,8 +125,7 @@ class Connection():
             try:
                 header,addr = self.socket.recvfrom(1056)
                 sender,dest,length,sender_port,dest_port,sequence,ack,flags,recw,checksum = struct.unpack("!4s4sIHHIIHHHxx", header[:32])
-                #simulate rtt
-                time.sleep(0.15)
+                
                 if (flags & (1 << 5)):
                     print('fin received')
                     ack = Packet(sender_IP=self.sender_IP, 
