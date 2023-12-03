@@ -9,7 +9,14 @@ class Protocol():
         self.IP = IP
         self.port = port
         self.socket = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
-        self.socket.bind((self.IP,self.port))
+        if (IP == '0.0.0.0' or IP == '127.0.0.1' or IP == 'localhost'):
+            self.socket.bind((self.IP,self.port))
+            s = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
+            s.connect(('192.255.255.255', 1))
+            self.IP = s.getsockname()[0]
+            print('IP = {}'.format(self.IP))
+        else:
+            self.socket.bind(('0.0.0.0',self.port))
 
     def conn(self,dest_IP,dest_port):
         connected = False

@@ -122,6 +122,7 @@ class Connection():
         recieve = True
         output = []
         while recieve:
+           
             try:
                 header,addr = self.socket.recvfrom(1056)
                 sender,dest,length,sender_port,dest_port,sequence,ack,flags,recw,checksum = struct.unpack("!4s4sIHHIIHHHxx", header[:32])
