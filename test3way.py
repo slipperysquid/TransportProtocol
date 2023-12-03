@@ -18,7 +18,7 @@ conn = proto.accept()
 conn.listen()
 while True:
     try:
-        data = conn.receive_data()
+        data = conn.receive_data(1056)
         with open("test2.txt",'wb') as f:
             f.write(data)
     except Exception as e:
