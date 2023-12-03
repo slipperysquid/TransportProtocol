@@ -1,1000 +1,976 @@
+The Project Gutenberg eBook of Joseph Hergesheimer, an essay in interpretation
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+Title: Joseph Hergesheimer, an essay in interpretation
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+Author: James Branch Cabell
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+Release date: December 2, 2023 [eBook #72292]
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+Language: English
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+Original publication: Chicago: The Bookfellows, 1921
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+Credits: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/Canadian Libraries)
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+*** START OF THE PROJECT GUTENBERG EBOOK JOSEPH HERGESHEIMER, AN ESSAY IN INTERPRETATION ***
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+  Transcriber’s Note
+  Italic text displayed as: _italic_
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+  Joseph Hergesheimer
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+  An Essay in Interpretation
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+  Joseph Hergesheimer
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+  An Essay in Interpretation
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+  By
+  James Branch Cabell
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+  “_And we dreamed a dream in one night, I and he: we dreamed
+  each man according to the interpretation of his dream._”
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+  [Illustration: Decoration]
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+  CHICAGO
+  THE BOOKFELLOWS
+  1921
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+_One thousand small paper and ninety-nine tall paper copies of this
+monograph have been printed for_ THE BOOKFELLOWS _in August, 1921. The
+edition is the first; Mr. Cabell the author is_ BOOKFELLOW _No. 513 and
+Mr. Brewer the printer is_ BOOKFELLOW _No. 14_.
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+  _Copyright 1921 by
+  James Branch Cabell_
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+  To
+  JOSEPH HERGESHEIMER
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+  with friendship and large admiration
+  as goes the past, and with
+  cordial faith in what
+  is to come.
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+ONE
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+So say they, speak they, and tell they the tale, in “literary gossip,”
+that Joseph Hergesheimer “wrote” for a long while before an iota of his
+typing was transmuted into “author’s proof.” And the tale tells how
+for fourteen years he could find nowhere any magazine editor to whose
+present needs a Hergesheimer story was quite suited.
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+It is my belief that in approaching Mr. Hergesheimer’s work one should
+bear constantly in mind those fourteen years, for to me they appear,
+not uncuriously, to have shaped and colored every book he has thus far
+published.
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
+The actual merit of the writing done during that period of
+“unavailability” is—here, at least—irrelevant. It is not the point
+of the fable that he high-heartedly wrote a story to which, when
+completed, his unbiased judgment could not quite honestly deny such
+deference as is due to a literary masterpiece; and which, through
+some odd error, was rejected by a magazine that every month was
+publishing vastly inferior stories; and which was later declined by
+another magazine, and by a host of magazines, with a dispiriting bland
+unanimity not unsuggestive of editorial conspiracy. Meanwhile—of
+course—he had written another tale, which was much better than the
+first, and which proved to be an equally faithful chaperon of return
+postage. So story followed story, each dreeing the same weird....
+
+And he used to wait for the postman, no doubt, and to note from afar
+that it was a large envelope; and would open the damned thing with a
+faint hope that perhaps they just wanted some slight changes made;
+and would find only the neat, impersonal, and civilly patronizing
+death-warrant of hope. So Joseph Hergesheimer kept on with his
+foolishness, without any gleam of success, or even (they report) any
+word of encouragement. And doubtless his relatives said the customary
+things....
+
+Yet none of these circumstances, either, is the point of the apologue,
+because in all save one detail the comedy has been abraded into
+pointlessness by over-constant repetition; and is, of course, being
+futilely performed at this moment in one prefers not to reflect how
+many thousand homes. The leading rôle, though, is too unprofitable
+and irksome for any quite sane person to persist in enacting it for
+fourteen years. This Joseph Hergesheimer did: and that is the fable’s
+significant point.
+
+
+
+
+TWO
+
+
+Yes, it is the boy’s illogical pertinacity that is the fable’s point,
+because it so plausibly explains why nearly all the men in Mr.
+Hergesheimer’s books are hag-ridden by one or another sole desire
+which spurs them toward a definite goal at every instant of their
+mimic lives. These men but variously reflect, I take it, that younger
+Hergesheimer’s “will to write,” that unconquerable will. To Mr.
+Hergesheimer, even to-day, it probably seems natural that a man’s whole
+living should be devoted to the attaining of one desire quite clearly
+perceived, because his own life has been thus dedicated. The more
+shrewd mass of practical persons that go about in flesh are otherwise;
+and comfortably fritter through the day, with no larger objective at
+any time in mind than the catching of a car, the rounding off of a
+business transaction, the keeping of an engagement for luncheon, and
+the vesperal attendance to some unmental form of recreation, with one
+small interest displacing another in endless succession, until bedtime
+arrives and the undertaker tucks them in.
+
+It explains to me the Hergesheimer women, too, those troublingly
+ornamental odalisques. They are fine costly toys, tricked out in
+curious tissues: and, waiting for the strong male’s leisure, they
+smile cryptically. They will divert him by and by, when the day’s
+work is dispatched, maintaining their own thoughts inviolate, even
+in the instant of comminglement wherein the strongest man abates
+reserve: but their moment is not daylit, for the Hergesheimer women are
+all-incongruous with what is done during office hours, nor are they
+to be valued then. Sometimes they are embodied ideals, to be sure,
+remotely prized as symbols or else grasped as trophies to commemorate
+the nearing of the goal: but for the most part they rank candidly as
+avocational interests. I find nowhere in Joseph Hergesheimer’s stories
+any record of intimacy and confidence between a man and a woman....
+And this too, I think, reflects that all-important formative fourteen
+years wherein, whatever may have been Mr. Hergesheimer’s conduct of
+his relatively unimportant physical life, his fundamental concernments
+were pursued in a realm, of necessity, uninhabited by women. Indeed,
+no woman can with real content permit the man whom she proprietorially
+cherishes to traffic in this queer lonely realm, and she cannot but
+secretly regard his visits thereto as a personal slight. So the
+creative literary artist is (when luckiest) at silent feud with his
+women, because the two are perpetually irritated by the failure of
+their joint effort to ignore the fact that she ranks necessarily as an
+avocational interest.
+
+
+
+
+THREE
+
+
+What, though, was the precise goal of the fourteen years of visually
+unproductive “writing”? Those earlier stories have never been
+printed, so that one perforce advances on a bridge of guesswork. But
+certainly, in all that is to-day accessible of Mr. Hergesheimer’s
+creative feats—with one exception duly noted hereinafter—there is a
+patent negligence, and indeed an ostentatious avoidance, of any aiming
+toward popularity. That during the fourteen years young Hergesheimer
+labored toward the applause and cheques of a “best seller,” is to
+the considerate inconceivable. Nor could that well have been a
+motive strong enough to sustain him thus long, since the maker of
+reading-matter, like any other tradesman, has need of quick returns
+where the artist battens on immediate rejections.
+
+No, Mr. Hergesheimer’s monomania, one estimates, was then, just as it
+seems to be to-day, to write for his own delectation—in large part
+because he could not help it, and in part with the hope of, somehow
+and some day, obtaining an audience with the same or, at any rate,
+a kindred sense of beauty.... This, to be sure, is always a vain
+aspiration. That which, in effusions such as this, we loosely talk
+about as “beauty” probably does not exist as a vital thing save here
+and there in the thoughts of not too many and not to be too seriously
+taken persons. In life, rather frequently, one appears to catch a
+glimpse of something of the sort just around the corner or over the
+way, but it is rarely, and perhaps never, actually at hand. Sometimes,
+of course, one seems about to incorporate the elusive thing into
+one’s daily living; and, striving, finds the attempt a grasping at
+an opalescent bubble, with the same small shock, the same disrupting
+disillusionment.
+
+“Beauty,” thus, is by the judicious conceded to be an unembodiable
+thought, not even quite to be grasped by the mind; and certainly never
+nicely nor with any self-content to be communicated via the pages
+of a book, wherein are preserved, at best, the faded petals and the
+flattened crumbling stalks of what seemed lovely once to somebody who
+is as dead as are these desiccated relics of his ardor and of his
+disputable taste.
+
+In brief, it may be granted—and by Mr. Hergesheimer most cheerfully
+of all persons—that during these fourteen years Mr. Hergesheimer was
+attempting the preposterously impossible.
+
+
+
+
+FOUR
+
+
+Now, to my thinking, there is something curiously similar to that
+unreasonable endeavor to be found in all the Hergesheimer novels.
+Here always I find portrayed, with an insistency and a reiteration to
+which I seem to detect a queer analogue in the writings of Christopher
+Marlowe, men laboring toward the unattainable, and a high questing
+foiled. No one of the five novels varies from this formula.
+
+Anthony Ball, of _The Lay Anthony_, strives toward the beauty of
+chastity—not morally concerned one way or the other, but resolute to
+preserve his physical purity for the sake of a girl whose body, he
+finds at last, has long ago been ravished by worms. Again there is in
+_Mountain Blood_ no hint of moral-mongering—for Mr. Hergesheimer is
+no more concerned with moral values than is the Decalogue—when Gordon
+Makimmon toils toward the beauty of atonement, to die in all a broken
+man, with his high goal yet gleaming on the horizon untouched. The
+three black Pennys flounder toward the beauty of a defiant carnal
+passion, which through the generations scorches and defiles, and
+burns out futilely by and by, leaving only slag where the aspiring
+lovely fire was. And through the formal garden ways of _Java Head_
+pass feverishly at least five persons who struggle (and fretfully know
+their failure to be foredoomed) toward the capturing of one or another
+evincement of beauty, with the resultant bodily demolishment of three
+of them and the spiritual maiming of the others.
+
+That which one, for whatever reason, finds most beautiful must be
+sought; it is a goal which one seeks futilely, and with discomfort
+and peril, but which one seeks inevitably: such is the “plot” of
+these four novels. Such is also, as I need hardly say, the “plot” of
+the aforementioned fourteen years wherein not anything tangible was
+achieved except the consuming of youth and postage....
+
+Nor does the dénouement differ, either, in any of these novels: the
+postman comes with the plethoric envelope which signals from afar that
+the result of much high-hearted striving is not quite suited to the
+present needs of this world’s editor; and sometimes the postman is Age,
+but more often he is Death.
+
+
+
+
+FIVE
+
+
+Now the fifth, and incomparably the finest and loveliest, of the
+Hergesheimer novels is _Linda Condon_, which renders self-confessedly
+a story of “the old service of beauty, of the old gesture toward the
+stars”—“here never to be won, never to be realized”—of the service
+which “only beauty knows and possesses”.... For _Linda Condon_ is to be
+valued less as the life-history of a woman than as the depiction—curt,
+incisive, and yet pitying—of a shrine that, however transiently, was
+hallowed.
+
+At the exacting workaday pursuit of being a human being this Linda
+fails, fails chilled and wistful. She has, like more of us than dare
+proclaim the defect, no talent whatever for heart-felt living, so
+that most persons seem but to pass grayly upon the horizon of her
+consciousness, like unintelligible wraiths gesticulating,—and always
+remaining somehow disjunct and not gravely important,—the while that
+all the needs and obligations of one’s corporal life must be discharged
+with an ever-present sense of their queer triviality. Toward nobody,
+neither toward Linda Condon’s mother nor lover, nor husband, nor
+children, may she, the real Linda, quite entertain any sense of actual
+attachment, far less of intimacy....
+
+Meanwhile she has her loveliness, not of character or mind, but a loan
+of surpassing physical beauty. And to Linda Condon her own bright
+moving carcass becomes a thing to be tended and preserved religiously,
+because beauty is divine, and she herself is estimable, if at all,
+as the fane which beauty briefly inhabits.... And by and by, under
+time’s handling, her comeliness is shriveled, and her lovers are
+turned to valueless dust: but first, has Linda’s lost young beauty
+been the buried sculptor’s inspiration, and it has been perpetuated in
+everlasting bronze. The perfection of Linda Condon’s youth is never
+to perish, and is not ever to be dulled by old age or corrupted in
+death. She comprehends this as she passes out of the story, a faded,
+desolate and insignificant bit of rubbish, contented to know that
+the one thing which really meant much to her is, as if by a miracle,
+preserved inviolate. The statue remains, the immutable child of Linda’s
+comeliness and Pleydon’s genius, the deathless offspring of transitory
+things.
+
+Beauty is divine; a power superior and even elfinly inimical to
+all human moralities and rules of thumb, and a divinity which must
+unflinchingly be served: that, in this book as always, is Mr.
+Hergesheimer’s text. For this is the divinity which he, too, serves
+unflinchingly, with strangely cadenced evocations, in striving to write
+perfectly of beautiful happenings.
+
+It is an ideal here approached even more nobly than in the preceding
+Hergesheimer books. Nowhere has Joseph Hergesheimer found an arena more
+nicely suited to the exercise of his most exquisite powers than in this
+modern tale of _domnei_,—of the worship of woman’s beauty as, upon the
+whole, Heaven’s finest sample of artistic self-expression, and as, in
+consequence, the most adequate revelation of God; and as such a symbol,
+therefore, a thing to be revered above all else that visibly exists,
+even by its temporary possessor. That last is Mr. Hergesheimer’s
+especial refinement upon a tenet sufficiently venerable to have been
+nodded over by Troy’s gray-bearded councillors when Helen’s skirts were
+rustling by,—and a refinement, too, which would have been repudiated
+by Helen herself, who, if one may trust to Euripides’ report of her
+sentiments, was inclined less elevatedly to regard her own personal
+appearance, as a disaster-provoking nuisance.
+
+Well, and to Linda, also, was beauty a nuisance—“a bitter and luxurious
+god,” that implacably required to be honored with sacrifices of common
+joys and ties and ruddy interests, but was none the less divine.
+Sustained by this sole knowledge, Linda Hallet passes out of the story,
+when youth is over, regarding not very seriously that which is human
+and ephemeral, even as embodied in her lovers and her children, nor in
+herself, but rather always turning grave blue eyes toward that which
+is divine; passes, at once the abandoned sanctuary, the priestess,
+the postulant, and the martyr, of that beauty to which fools had once
+referred as “hers”; passes not as the wreckage of a toy but as an
+outworn instrument which has helped to further the proud labor of a
+god; and passes, as all must pass, without any sure comprehension of
+achievement, but with content. That, really, is _The Happy End_....
+
+
+
+
+SIX
+
+
+Which reminds me that for the most part I am rattling very old bones.
+Those seemingly unfruitful fourteen years are to-day at one with those
+other fourteen years which brought an elder Joseph into Egyptian
+publicity. Mr. Hergesheimer has “arrived”: his books have found their
+proper and appreciative audience; whereas his short stories are
+purchased, and probably read, along with the encomiums of ready-made
+clothing and safety razors, by the I forget how many million buyers of
+the world’s most popular magazine....
+
+Now, here, I think, one finds stark provocations of uneasiness. I
+speak with diffidence, and am not entirely swayed, I believe, by the
+natural inclination of every writer to backbite his fellow craftsman.
+In any event, dismissing _Gold and Iron_ (after some reflection) with
+unqualified applause, I take up _The Happy End_; and of the seven
+stories contained therein six seem to me to display a cornerstone of
+eminently “popular” psychology, ranging from the as yet sacrosanct
+belief that all Germans are perfectly horrid people, to the axiom
+that the quiet and unrespected youngest brother is invariably the one
+to exterminate the family enemies, and duly including the sentiment
+that noble hearts very often beat under ragged shirts. And I am made
+uneasy to see these uplifting faiths—these literary baking-powders more
+properly adapted to the Horrible Trites and the Gluepot Stews among
+reading-matter confectioners—thus utilized by a Joseph Hergesheimer.
+
+I am made uneasy because I reason in this way: when Mr. Hergesheimer
+consciously is writing a short story to be printed next to advertising
+matter in some justly popular periodical, Mr. Hergesheimer, being
+rational and human, cannot but think of the subscribers to that
+popular periodical. I forget, I repeat, how many millions of them have
+been duly attested upon affidavit to exist, but certainly not many
+thousands of our fellow citizens can regard Mr. Hergesheimer at his
+best and purest with anything save bewildered abhorrence. So he must
+compromise,—subconsciously, I believe,—and must adapt his methods
+to the idiosyncrasies and limitations of his audience, very much as
+he probably refrains from addressing his cook in the heightened and
+consummated English of _San Cristóbal de la Habana_.
+
+The danger is not that Joseph Hergesheimer will lower his ideals, nor
+in anything alter what he wishes to communicate; but is the fact that
+he must attempt to transmit these things into the vernacular and into
+the orbits of thought of his enormous audience, with the immaculate
+motive of making his ideas comprehensible. He cannot, being rational
+and human, but by and by be tempted yet further to endeavor—as he has
+flagrantly endeavored in the tale called _Tol’able David_—to convey his
+wayside apprehensions of life via some such always acceptable vehicle
+as the prehistoric fairy-tale cliché of the scorned and ultimately
+victorious third champion. This is with a vengeance the pouring of
+new wine into a usage-battered and always brazen cup which spoils the
+brew....
+
+Six of these stories, then, are beautifully written moral tales:
+although, to be sure, there is an alleviating seventh, in _The Flower
+of Spain_, which is a well-nigh perfect and a profoundly immoral work
+of art. I therefore put aside this volume with discomfort....
+
+But I suspect that here the axiomatic mutual jealousy of all authors
+should be discounted. As an “outsider” in letters, I cannot be
+expected quite to view with equanimity the recent installation of Mr.
+Hergesheimer in the National Institute of Arts and Letters, that august
+body wherein the other representatives of creative literature are
+such approved masters as Mr. Nelson Lloyd and Mr. Robert W. Chambers
+and Mr. L. Frank Tooker. At this port, with appropriate ceremony, has
+the skipper of _The Happy End_ “arrived.” The fact has been formally
+recognized, by our most “solid” cultural element, that in artistic
+achievement Joseph Hergesheimer has but fifty living superiors, and
+only a hundred and ninety-nine equals at this moment resident in the
+United States: and I, who have not been tendered any such accolade,
+cannot but be aware of human twinges when Mr. Hergesheimer as a matter
+of course accepts this distinction.
+
+So it is quite conceivably the impurest sort of envy and low-mindedness
+which causes me here to suspect alarming symptoms. I, in any event,
+put aside _The Happy End_ with very real discomfort; and turn to the
+reflection that Mr. Hergesheimer has since written _Linda Condon_,
+which discomforts me quite as poignantly by exposing to me my poverty
+in phrases sufficiently noble to apply to this wholly admirable book.
+
+
+
+
+SEVEN
+
+
+Yet Mr. Hergesheimer, even in the least worthy of his magazine stories,
+writes really well. The phrase has an inadequate ring: but when you
+have applied it without any grave reservation to Mr. Tarkington and
+Mr. Hergesheimer, and have given Mrs. Wharton a deservedly high rating
+for as many merits as seem possible to a woman writer, of what other
+American novelists can this pardonably be said by anybody save their
+publishers? No: the remainder of us, whatever and however weighty may
+be our other merits, can manage, in this matter of sheer writing,
+to select and arrange our adjectives and verbs and other literary
+ingredients acceptably enough every now and then: and that is the
+utmost which honesty can assert.
+
+But Mr. Hergesheimer always writes really well, once you have licensed
+his queer (and quite inexcusable) habit of so constantly interjecting
+proper names to explain to whom his, Hergesheimer’s, pronoun
+refers.... Perhaps I here drift too remotely into technicalities, and
+tend to substitute for a consideration of architecture a treatise
+upon brick-making. Even so, I cannot but note in this place how
+discriminatingly Mr. Hergesheimer avoids the hurdles most commonly
+taken with strained leaps by the “stylist,” through Mr. Hergesheimer’s
+parsimony in the employment of similes; and how inexplicably he
+renders “anything from a chimneypot to the shoulders of a duchess”
+by—somehow—communicating the exact appearance of the thing described
+without evading the whole issue by telling you it is like something
+else.
+
+
+
+
+EIGHT
+
+
+Now this non-employment of time-approved devices seems even the more
+remarkable when you consider how intensely Joseph Hergesheimer realizes
+the sensuous world of his characters and, in particular, the optic
+world. He is the most insistently superficial of all writers known to
+me, in his emphasis upon shapes and textures and pigments.
+
+His people are rendered from complexion to coat-tail buttons, and
+the reader is given precisely the creasing of each forehead and the
+pleating of their under-linen. Mr. Hergesheimer’s books contain whole
+warehousefuls of the most carefully finished furniture in literature;
+and at quaint bric-à-brac he has no English equal. It is all visioned,
+moreover, very minutely. Joseph Hergesheimer makes you observe his
+chairs and panelings and wall-papers and window-curtains with an
+abnormal scrutiny. The scenery and the weather, too, are “done” quite
+as painstakingly, but these are indigenous to ordinary novels.
+
+Now of course, like virtually every other practise of “realism,” this
+is untrue to life: nobody does in living regard adjacent objects as
+attentively as the reader of a Hergesheimer story is compelled to note
+them. For one, I cannot quite ignore this fact, even when I read with
+most delight: and I sometimes wonder if Mr. Hergesheimer premeditatedly
+sits down to study an andiron or a fan for literary use, or whether his
+personal existence is actually given over to this concentration upon
+externals and inanimate things. But he was once a painter; and large
+residuals of the put-by art survive.
+
+All this results, of course, in a “style” to which the reader is never
+quite oblivious. The Hergesheimer dramas—dramas wherein each of the
+players has a slight touch of fever—are enacted, with a refining hint
+of remoteness, behind the pellucid crystal of this “style,” which
+sharpens outlines, and makes colors more telling than they appear to
+everyday observation, and brings out unsuspected details (seen now for
+the first time by the reader, with a pleasurable shock of delight), and
+just noticeably glazes all.
+
+The Hergesheimerian panorama is, if I may plagiarize, a little truer
+than truth: and to turn from actual life to Joseph Hergesheimer’s pages
+arouses a sensation somewhat akin to that sustained by a myopic person
+when he puts on spectacles...
+
+And thus is a quite inoffensive tropic town foredoomed to be a
+perennial source of disappointment to all tourists who have previously
+read _San Cristóbal de la Habana_,—that multi-colored sorcerous
+volume, with which we have here no immediate concern,—and who, being
+magic-haunted, will over-rashly bring to bear upon a duly incorporated
+city, thriftily engaged in the tobacco and liquor-business, their eyes
+unre-enforced.
+
+
+
+
+NINE
+
+
+Such, then, are this artist’s materials: in a world of extraordinary
+vividness a drama of high questing foiled, a tragedy of beauty
+sought, with many blunders but single-mindedly, by monomaniacs,—in
+fine, a performance suggestively allied, in its essentials, to the
+smaller-scaled and unaudienced drama of the young man with the
+percipient eyes of a painter, who throughout fourteen years was
+striving to visualize in words his vision of beauty, and who was
+striving to communicate that vision, and who—the tastes of the average
+man being that queer slovenly aggregation which makes the popular
+periodical popular, and the ostensible leaders of men being regular
+subscribers to the slatternly driveling host—was striving in vain.
+
+These things are but the raw materials, I repeat,—the bricks and mortar
+and the scantlings,—for, of course, there is in Joseph Hergesheimer’s
+books far more than plot or thought, or even “style”: there is that
+indescribable transfiguring element which is magic.
+
+When Linda Condon came to look closely at Pleydon’s statue, you may
+remember, she noted in chief the statue’s haunting eyes, and marveled
+to find them “nothing but shadows over two depressions.” Very much the
+equivalent of that is the utmost to which one can lay a crude finger
+in appraising Mr. Hergesheimer’s books. They are like other books in
+that they contain nothing more prodigious than words from the nearest
+dictionary put together upon quite ordinary paper... But the eyes of
+Pleydon’s statue—you may remember, too—for all that they were only
+indentations in wet clay, “gazed fixed and aspiring into a hidden
+dream perfectly created by his desire.” And viewing the statue, you
+were conscious of that dream, not of wet clay: and you were moved by
+the dream’s loveliness as it was communicated, incommunicably, by
+Pleydon’s art.
+
+Now, at its purest, the art of the real Hergesheimer, the fundamental
+and essential thing about Joseph Hergesheimer, is just that intangible
+magic which he ascribes to his fictitious Pleydon. And the dream that
+Joseph Hergesheimer, too, has perfectly created by his desire, and
+seeks to communicate in well-nigh every line he has thus far published,
+I take to be “the old gesture toward the stars ... a faith spiritual,
+because, here, it is never to be won, never to be realized.”
+
+It is, I think, the “gesture” of the materially unproductive fourteen
+years: and its logic, either then or now, is clearly indefensible.
+Still, one agrees with Cyrano, _Mais quel geste!_ and one is conscious
+of “a warm indiscriminate thrill about the heart” and of a treacherous
+sympathy, which abhors reason.... Yes, one is conscious of a most
+beguiling sympathy, that urges one already to invest blind. Faith in
+what is to come very soon, but stays as yet unrevealed,—in _The Bright
+Shawl_, and in the retempered _Steel_, and in _Cythera_, and even more
+particularly in _The Meeker Ritual_, which promises, to me at least, to
+reveal upon completion an especial prodigality of perturbing magics.
+
+
+
+
+TEN
+
+
+It is through distrust of this beguiling sympathy that I have spoken
+throughout with self-restraint, and have hedged so often with “I
+think” and “I believe” and “it seems to me,” and have niggled
+over Hergesheimerian faults that are certainly tiny and possibly
+non-existent: because of my private suspicion that all my private
+notions about Joseph Hergesheimer are probably incorrect. To me, I
+confess, he appears a phenomenon a little too soul-satisfying to be
+entirely credible.
+
+Pure reason does not brevet it as humanly possible that the
+Hergesheimer I privately find in the pages of the Hergesheimer books
+should flourish in any land wherein the self-respecting author is
+usually restricted to choose between becoming the butt or the buttress
+of mediocrity: so that I cautiously refrain from quite believing
+in this Joseph Hergesheimer as a physical manifestation in actual
+trousers.... Indeed, his corporeal existence cannot well be conceded
+except upon the hypothesis that America has produced, and is even
+nourishing, a literary artist who may endure in the first rank. Which
+is absurd, of course, and a contention not to be supported this side of
+Bedlam, and, none the less, is my firm private belief to-day.
+
+None the less, also, must I to-day speak with very self-conscious
+self-restraint, because for the judicious any more thoroughgoing
+dicta are checked by the probability, and the ardent hope, that Mr.
+Hergesheimer’s work is barely begun. Nobody born of a generation which
+has witnessed the beginnings and the æsthetic endings of Mr. Hewlett
+and Mr. Le Gallienne would be so rash as to predict the upshot of
+any author’s career with no ampler data to “go on” than the initial
+chapters, however fine. Rather must it perforce content me to believe
+that the Joseph Hergesheimer who has made head against the fourteen
+years of neglect and apparent failure, without ever arranging any very
+serious compromise with human dunderheadedness and self-complacency,
+is now in train to weather unarithmeticable decades of public success
+by virtue of the same wholesome egoism. And I can see besetting him
+just one lean danger,—a feline peril that hunts subtly, with sheathed
+claws and amicable purrings,—in the circumstance that the well-meaning
+Philistia which yesterday was Mr. Hergesheimer’s adversary, so far as
+it noted him at all, will be henceforward affording him quite sensible
+and friendly and sincere advice.
+
+Well, the results should, at the worst, be interesting.
+
+
+Explicit
+
+
+
+
+        
+            *** END OF THE PROJECT GUTENBERG EBOOK JOSEPH HERGESHEIMER, AN ESSAY IN INTERPRETATION ***
+        
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
 
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-
-asdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdfasdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
-asdfasfdasdfasdfasdf
