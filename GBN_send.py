@@ -54,8 +54,8 @@ class sender():
             self.lock.acquire()
             print(max_win_size)
             #check if window is > max window size
-            if (max_win_size != 0 and self.N > floor(max_win_size/1024)):
-                self.N = floor(max_win_size/1024)
+            if (max_win_size != 0 and self.N > (floor(max_win_size/1024) - 1)):
+                self.N = floor(max_win_size/1024) - 1
             #checks if window goes past chunks
             if ( self.window_base + self.N >= len(chunks)):
                 self.N = len(chunks)-1
