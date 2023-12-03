@@ -23,7 +23,7 @@ class Connection():
         self.closed = False
         self.GBN_sender = sender(self.socket, self.sender_IP,self.sender_port,self.dest_IP,self.dest_port)
         self.listening = False
-        self.sending = True
+        self.sending = False
     
 
     def send_data(self,data):
