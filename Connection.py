@@ -144,7 +144,8 @@ class Connection():
                 elif Packet.validate_packet(packet=header, checksum=checksum):
                     print("validated packet with sequence number ", sequence)
                     
-                    
+                    x = random.randint(0,9)
+
                     
                     #if not duplicate packet get the data
                     if sequence == expected_seq:
@@ -155,7 +156,8 @@ class Connection():
                                         data=None, 
                                         ack=expected_seq,
                                         syn=False,is_ack=True).build()
-                        self.socket.sendto(ack, (self.dest_IP,self.dest_port))
+                        if x < 8:
+                            self.socket.sendto(ack, (self.dest_IP,self.dest_port))
                         expected_seq += 1
                         #read the data from the buffer
                         data_chunk = header[32:]
@@ -170,7 +172,8 @@ class Connection():
                                         data=None, 
                                         ack=expected_seq - 1,
                                         syn=False,is_ack=True).build()
-                        self.socket.sendto(ack, (self.dest_IP,self.dest_port))
+                        if x < 8:
+                            self.socket.sendto(ack, (self.dest_IP,self.dest_port))
                     
             except Exception as e:
                 print(e)
