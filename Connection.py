@@ -27,7 +27,7 @@ class Connection():
         self.listening = False
         self.sending = False
         self.recv_timeout = 0.3
-        self.socket.setsockopt(socket.SOL_SOCKET,socket.SO_SNDBUF,max_window_size)
+        self.socket.setsockopt(socket.SOL_SOCKET,socket.SO_SNDBUF,max_window_size + 32 * floor(max_window_size/1024))
 
     def send_data(self,data):
         if self.closed == False:
