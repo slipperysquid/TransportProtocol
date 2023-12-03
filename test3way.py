@@ -15,7 +15,7 @@ with open("test.txt",'wb') as f:
 
 proto = Protocol('0.0.0.0',5001)
 conn = proto.accept()
-
+conn.listen()
 data = conn.receive_data()
 with open("test2.txt",'wb') as f:
     f.write(data)
