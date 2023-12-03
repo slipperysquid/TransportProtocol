@@ -13,7 +13,7 @@ class Packet():
         self.sequence = sequence
         self.ack = ack
         self.data = data
-        self.recvw = 4096
+        self.recvw = recvw
         self.syn = syn
         self.fin = fin
         self.is_ack = is_ack

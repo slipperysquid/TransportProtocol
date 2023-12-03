@@ -7,18 +7,19 @@ from GBN_send import sender
 import random
 class Connection():
     
-    def __init__(self,sender_IP,sender_port,dest_IP,dest_port,socket):
+    def __init__(self,sender_IP,sender_port,dest_IP,dest_port,socket, max_window_size):
         self.sender_IP = sender_IP
         self.sender_port = sender_port
         self.socket = socket
         self.dest_IP = dest_IP
         self.dest_port = dest_port
         self.windowsize = 1
+        self.max_window_size = max_window_size
         self.GBN_sender = sender(self.socket, self.sender_IP,self.sender_port,self.dest_IP,self.dest_port)
     
 
     def send_data(self,data):
-        self.GBN_sender.send_data(data)
+        self.GBN_sender.send_data(data, self.max_window_size)
 
         '''
         #split data into chunks
