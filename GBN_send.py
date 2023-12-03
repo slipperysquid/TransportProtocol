@@ -54,10 +54,10 @@ class sender():
             if ( self.window_base + self.N >= len(chunks)):
                 self.N = len(chunks)-1
             #if the sequence number is within the window, send packets
-            while ((self.next_seq_num < self.window_base + self.N) and (self.next_seq_num <= len(chunks) - 1)):
+            while ((self.next_seq_num <= self.window_base + self.N) and (self.next_seq_num <= len(chunks) - 1)):
                 print("sending packet with sequence number {}".format(self.next_seq_num))
                 x = random.randint(0,9)
-                if x < 8:
+                if x < 5:
                     packet = Packet(self.sender_IP, self.sender_port, self.dest_IP,  self.dest_port, sequence=self.next_seq_num, data = chunks[self.next_seq_num],ack=0 ).build()
                     self.socket.sendto(packet,(self.dest_IP,self.dest_port))  
                 #start timer after sending packing if the sequence number is the window base
@@ -141,6 +141,7 @@ class sender():
                     
                     self.timer.stop()
                     self.next_seq_num = ack_num + 1
+                    self.window_base = ack_num + 1
                     self.N = 1
                     self.lock.release()  
                 elif (ack_num == self.window_base):

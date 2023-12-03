@@ -160,7 +160,9 @@ class Connection():
                         #read the data from the buffer
                         data_chunk = header[32:]
                         output.append(data_chunk)
-                    elif sequence > expected_seq:#duplicate packet received then send duplicate ack
+                    elif sequence > expected_seq:#if there is loss,then send duplicate ack
+                        print("LOSS detected!!!!!!!!!!")
+                        print("\t expecting packet {} but got packet {}".format(expected_seq, sequence))
                         ack = Packet(sender_IP=self.sender_IP, 
                                         sender_port=self.sender_port, 
                                         dest_IP=socket.inet_ntoa(sender), 
