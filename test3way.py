@@ -4,7 +4,7 @@ import time
 from protocol import Protocol
 
 proto = Protocol('0.0.0.0',5001)
-conn = proto.accept(16384)
+conn = proto.accept(8192)
 conn.listen()
 data = b''
 while True:
