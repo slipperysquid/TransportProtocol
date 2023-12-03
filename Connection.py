@@ -11,10 +11,10 @@ from helpers import make_threaded
 from Timer import Timer
 class Connection():
     
-    def __init__(self,sender_IP,sender_port,dest_IP,dest_port,socket:socket.socket, dest_max_window_size, max_window_size):
+    def __init__(self,sender_IP,sender_port,dest_IP,dest_port,sockets:socket.socket, dest_max_window_size, max_window_size):
         self.sender_IP = sender_IP
         self.sender_port = sender_port
-        self.socket = socket
+        self.socket = sockets
         self.dest_IP = dest_IP
         self.dest_port = dest_port
         self.buffer = []
@@ -27,7 +27,7 @@ class Connection():
         self.listening = False
         self.sending = False
         self.recv_timeout = 0.3
-    
+        self.socket.setsockopt(socket.SOL_SOCKET,socket.SO_SNDBUF,max_window_size)
 
     def send_data(self,data):
         if self.closed == False:
