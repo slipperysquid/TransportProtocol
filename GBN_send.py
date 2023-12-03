@@ -52,6 +52,7 @@ class sender():
         while not(self.done):
     
             self.lock.acquire()
+            print(max_win_size)
             #check if window is > max window size
             if (self.N > floor(max_win_size/1024)):
                 self.N = floor(max_win_size/1024)

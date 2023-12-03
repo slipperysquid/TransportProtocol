@@ -5,7 +5,7 @@ import socket
 
 class Packet():
     
-    def __init__(self,sender_IP,sender_port, dest_IP,dest_port ,sequence, data:bytes,ack, recvw = 4069,syn = False,fin=False,is_ack=False): #all inputs are strings
+    def __init__(self,sender_IP,sender_port, dest_IP,dest_port ,sequence, data:bytes,ack, recvw = 16384,syn = False,fin=False,is_ack=False): #all inputs are strings
         self.sender_IP = sender_IP
         self.sender_port = sender_port
         self.dest_IP =dest_IP

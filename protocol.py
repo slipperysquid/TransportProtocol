@@ -19,7 +19,7 @@ class Protocol():
         else:
             self.socket.bind(('0.0.0.0',self.port))
 
-    def conn(self,dest_IP,dest_port,max_window_size = 4096):
+    def conn(self,dest_IP,dest_port,max_window_size = 16384):
         connected = False
         while not(connected):
             #create the initial packet (in our protocol the first packet of handshake has seq 0)
@@ -34,7 +34,7 @@ class Protocol():
                 ack_data = struct.unpack('!4s4sIHHIIHHHxx',data)
                 flags = ack_data[7]
                 ack_num = ack_data[6]
-                self.dest_max_window_size = [8]
+                self.dest_max_window_size = ack_data[8]
                 sequence_num = ack_data[5]
                 checksum = ack_data[9]
                 if (Packet.validate_packet(packet=data,checksum=checksum) == False):#check valid
@@ -62,7 +62,7 @@ class Protocol():
         return Connection(self.IP,self.port,dest_IP,dest_port,self.socket,self.dest_max_window_size)
     
 
-    def accept(self,max_window_size = 4096):
+    def accept(self,max_window_size = 16384):
         connected= False
         while not(connected):
             #receive a syn packet
