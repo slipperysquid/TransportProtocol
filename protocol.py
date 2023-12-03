@@ -59,7 +59,7 @@ class Protocol():
             
             except Exception as e:
                 print("Three way handshake failed: {}".format(e))
-        return Connection(self.IP,self.port,dest_IP,dest_port,self.socket,self.dest_max_window_size)
+        return Connection(self.IP,self.port,dest_IP,dest_port,self.socket,self.dest_max_window_size,max_window_size)
     
 
     def accept(self,max_window_size = 0):
@@ -93,4 +93,4 @@ class Protocol():
                 else:
                     print("threeway established")
                     connected = True
-        return Connection(self.IP,self.port, socket.inet_ntoa(sender),sender_port,self.socket,self.dest_max_window_size)
+        return Connection(self.IP,self.port, socket.inet_ntoa(sender),sender_port,self.socket,self.dest_max_window_size, max_window_size)

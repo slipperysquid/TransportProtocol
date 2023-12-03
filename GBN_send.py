@@ -102,24 +102,6 @@ class sender():
         self.lock.release()
         receiver_thread.join()
         print("Done sending, informing server")
-        close_pack = Packet(self.sender_IP,self.sender_port, self.dest_IP,self.dest_port ,sequence=0, data=None,ack=0,fin=True).build()
-        self.socket.sendto(close_pack,(self.dest_IP,self.dest_port))
-        
-        self.socket.settimeout(0.3)
-        data, addr = self.socket.recvfrom(1000)
-        ack = struct.unpack('!4s4sIHHIIHHHxx',data)
-        flags = ack[7]
-        checksum = ack[9]
-        seq = ack[5]
-        print("THE FIN ACK HAS SEQUENCE NUMBER {}".format(seq))
-        if (Packet.validate_packet(packet=data,checksum=checksum) == False):#check valid
-            print("closure failed: bad checksum! ")
-        elif (not(flags & (1 << 7))):#check ack
-            print("closure failed:or the packet received is not an ack! ")
-        elif not(flags & (1 << 5)):#check fin
-            print("closure failed:  ack received is not a fin ack")
-        
-
         print("done sending confirmed")
 
 
