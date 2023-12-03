@@ -19,7 +19,7 @@ class Protocol():
         else:
             self.socket.bind(('0.0.0.0',self.port))
 
-    def conn(self,dest_IP,dest_port,max_window_size = 16384):
+    def conn(self,dest_IP,dest_port,max_window_size = 131200):
         connected = False
         while not(connected):
             #create the initial packet (in our protocol the first packet of handshake has seq 0)
@@ -62,7 +62,7 @@ class Protocol():
         return Connection(self.IP,self.port,dest_IP,dest_port,self.socket,self.dest_max_window_size)
     
 
-    def accept(self,max_window_size = 16384):
+    def accept(self,max_window_size = 131200):
         connected= False
         while not(connected):
             #receive a syn packet
