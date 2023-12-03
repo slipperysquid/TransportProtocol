@@ -22,5 +22,5 @@ with open("stuff.txt",encoding="utf8") as f:
     start = time.time()
     conn.send_data(f.read().encode())
     end = time.time()
-
 print("finished in {}".format(end - start))
+conn.close()
