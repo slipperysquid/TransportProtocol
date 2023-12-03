@@ -6,6 +6,7 @@ import struct
 from Packet import Packet
 import select
 import random
+from math import floor
 class sender():
     #shared resources
 
@@ -26,7 +27,7 @@ class sender():
         self.event  = threading.Event()
 
 
-    def send_data(self,data):
+    def send_data(self,data,max_win_size):
         #split data into chunks
         chunks = []
         while len(data) >= 1024:
@@ -51,15 +52,20 @@ class sender():
         while not(self.done):
     
             self.lock.acquire()
+            print(max_win_size)
+            #check if window is > max window size
+            if (max_win_size != 0 and self.N > floor(max_win_size/1024)):
+                self.N = floor(max_win_size/1024)
+            #checks if window goes past chunks
             if ( self.window_base + self.N >= len(chunks)):
                 self.N = len(chunks)-1
             #if the sequence number is within the window, send packets
             while ((self.next_seq_num <= self.window_base + self.N) and (self.next_seq_num <= len(chunks) - 1)):
                 print("sending packet with sequence number {}".format(self.next_seq_num))
-                x = random.randint(0,9)
-                if x < 8:
-                    packet = Packet(self.sender_IP, self.sender_port, self.dest_IP,  self.dest_port, sequence=self.next_seq_num, data = chunks[self.next_seq_num],ack=0 ).build()
-                    self.socket.sendto(packet,(self.dest_IP,self.dest_port))  
+                
+                
+                packet = Packet(self.sender_IP, self.sender_port, self.dest_IP,  self.dest_port, sequence=self.next_seq_num, data = chunks[self.next_seq_num],ack=0 ).build()
+                self.socket.sendto(packet,(self.dest_IP,self.dest_port))  
                 #start timer after sending packing if the sequence number is the window base
                 if (self.window_base == self.next_seq_num):
                     self.timer.start()
