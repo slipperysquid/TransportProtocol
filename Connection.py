@@ -33,7 +33,7 @@ class Connection():
     def send_data(self,data):
         if self.closed == False:
             if self.listening:
-                print("cannot send and listen on same socket")
+                print("cannot send and listen on same socket at the same time")
             else:
                 self.sending = True
                 self.GBN_sender.send_data(data, self.dest_max_window_size)
@@ -58,7 +58,7 @@ class Connection():
                         sender,dest,length,sender_port,dest_port,sequence,ack,flags,recw,checksum = struct.unpack("!4s4sIHHIIHHHxx", header[:32])
                         
                         if (flags & (1 << 5)):
-                            print('fin received')
+                            
                             self.lock.acquire()
                             ack = Packet(sender_IP=self.sender_IP, 
                                                     sender_port=self.sender_port, 
@@ -74,9 +74,6 @@ class Connection():
 
                         #check corruption
                         elif Packet.validate_packet(packet=header, checksum=checksum):
-                            print("validated packet with sequence number ", sequence)
-                            
-
                             
                             #if not duplicate packet get the data
                             if sequence == expected_seq:
@@ -99,7 +96,7 @@ class Connection():
                                     self.socket.sendto(ack, (self.dest_IP,self.dest_port))
                                     expected_seq += 1
                                 else:
-                                    print("buffer full, throwing away packet")
+                                    continue
                                 self.lock.release()
                                 
                             elif sequence > expected_seq:#if there is loss,then send duplicate ack
@@ -124,7 +121,7 @@ class Connection():
                         self.closed = True
                         self.listening = False
                         return
-                print("stopped listening")
+                
             else:
                 print("cannot listen for packets, connection is closed")
         else:
@@ -174,7 +171,6 @@ class Connection():
         flags = ack[7]
         checksum = ack[9]
         seq = ack[5]
-        print("THE FIN ACK HAS SEQUENCE NUMBER {}".format(seq))
         if (Packet.validate_packet(packet=data,checksum=checksum) == False):#check valid
             print("closure failed: bad checksum! ")
         elif (not(flags & (1 << 7))):#check ack

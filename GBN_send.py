@@ -48,11 +48,9 @@ class sender():
         #starting ack receiver thread
         receiver_thread = threading.Thread(target=self.receive_ack)
         receiver_thread.start()
-        print("LENGTH OF THE PACKETS IS {}".format(len(chunks)))
         while not(self.done):
     
             self.lock.acquire()
-            print(max_win_size)
             #check if window is > max window size
             if (max_win_size != 0 and self.N > (floor(max_win_size/1024) - 1)):
                 self.N = floor(max_win_size/1024) - 1
@@ -61,7 +59,6 @@ class sender():
                 self.N = len(chunks)-1
             #if the sequence number is within the window, send packets
             while ((self.next_seq_num < self.window_base + self.N) and (self.next_seq_num <= len(chunks) - 1)):
-                print("sending packet with sequence number {}".format(self.next_seq_num))
                 
                 
                 packet = Packet(self.sender_IP, self.sender_port, self.dest_IP,  self.dest_port, sequence=self.next_seq_num, data = chunks[self.next_seq_num],ack=0 ).build()
@@ -81,18 +78,11 @@ class sender():
             #handle timeout loss if timeout
             if self.timer.notify_timeout():
                 print("LOSS DETECTED: ack time out, resetting window size to 1 ")
-                
-                '''for i in range(window_base,next_seq_num - 1):
-                    packet = Packet(self.sender_IP, self.sender_port, self.dest_IP,  self.dest_port, sequence=next_seq_num, data = chunks[next_seq_num],ack=0 ).build()
-                    self.socket.sendto(packet,(self.dest_IP,self.dest_port))
-                    print("sending packet with sequence number {}".format(i))
-                '''
                 self.timer.stop()
                 self.N = 1
                 self.next_seq_num = self.window_base
 
             if(self.window_base >= len(chunks) - 1):
-                    print("breaking")
                     self.done = True
                     self.event.set()
                     break
@@ -101,8 +91,6 @@ class sender():
             
         self.lock.release()
         receiver_thread.join()
-        print("Done sending, informing server")
-        print("done sending confirmed")
 
 
     def receive_ack(self):
@@ -117,7 +105,6 @@ class sender():
                 flags = ack[7]
                 ack_num = ack[6]
                 checksum = ack[9]
-                print("ack {}  received".format(ack_num))
                 #validate the ack
                 if (Packet.validate_packet(packet=ack_data,checksum=checksum) == False):#check valid
                     print("Ack received is not valid")
@@ -126,7 +113,6 @@ class sender():
                     
                 elif (ack_num < self.window_base):
                     print("\t LOSS DETECTED: duplicate ack received, resetting window size to 1")
-                    
                     self.timer.stop()
                     self.next_seq_num = ack_num + 1
                     self.window_base = ack_num + 1
@@ -138,9 +124,6 @@ class sender():
                     self.next_seq_num = ack_num + 1
                     self.window_base = ack_num + 1
                     self.N += 1
-                    print("\tGood ack")
-                    print("\tinscreased window base to {}".format(self.window_base))
-                    print("\tCongestion Control: increased window size by one. Curr window size: {}".format(self.N))
                     self.lock.release()  
             else:
                 time.sleep(0.0001)
