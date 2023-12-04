@@ -7,7 +7,7 @@ Implements flow control and congestion control.
 
 Can be faster than tcp!!!!
 
-#Usage
+# Usage
 
 Protocol.conn(dest_IP,dest_port,max_window_size=0)
 
