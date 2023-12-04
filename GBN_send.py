@@ -60,7 +60,7 @@ class sender():
             if ( self.window_base + self.N >= len(chunks)):
                 self.N = len(chunks)-1
             #if the sequence number is within the window, send packets
-            while ((self.next_seq_num <= self.window_base + self.N) and (self.next_seq_num <= len(chunks) - 1)):
+            while ((self.next_seq_num < self.window_base + self.N) and (self.next_seq_num <= len(chunks) - 1)):
                 print("sending packet with sequence number {}".format(self.next_seq_num))
                 
                 
